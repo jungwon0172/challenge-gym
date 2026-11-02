@@ -1,123 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DOMAIN/</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/about.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/about.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/privacy.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/privacy.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/terms.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/terms.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/contact.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/contact.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/straykids-this-and-that.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/ive-looks-can-kill.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/ive-bang-bang.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/illit-youre-under-arrest.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/boynextdoor-viral.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/lesserafim-made-my-night.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/aespa-wda.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/straykids-this-and-that.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/itzy-thats-a-no-no.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/v8-singasong.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/tws-you-you.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/ateez-bad.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/kiiikiii-404-new-era.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/stayc-2love.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/hearts2hearts-rude.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/boynextdoor-viral.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/cortis-redred.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/treasure-if-i.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/nmixx-crescendo.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/nmixx-crescendo.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/nctwish-sticky.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/aespa-wda.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/p1harmony-unique.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/babymonster-choom.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/exo-crown.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/illit-its-me.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/v8-singasong.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/tws-you-you.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/txt-stick-with-you.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/cortis-redred.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/ateez-bad.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/txt-stick-with-you.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/lesserafim-made-my-night.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/plave-born-savage.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/idle-mono.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/nctwish-sticky.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/illit-its-me.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/p1harmony-unique.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/babymonster-choom.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/namu-tree-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/alldayproject-one-more-time.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/ganbare-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/plave-born-savage.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/hearts2hearts-rude.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/stayc-2love.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/itzy-thats-a-no-no.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/treasure-if-i.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/ive-bang-bang.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://DOMAIN/challenges/nctdream-beat-it-up.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <loc>https://challenge-gym.vercel.app/challenges/idle-mono.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/kiiikiii-404-new-era.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/exo-crown.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/yoonjeonga-waeyossam-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/nctdream-beat-it-up.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/alldayproject-one-more-time.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/toma-toma-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/apt-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/exo-first-snow-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/zico-any-song-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
+  </url>
+  <url>
+    <loc>https://challenge-gym.vercel.app/challenges/als-ice-bucket-challenge.html</loc>
+    <lastmod>2026-11-02</lastmod>
   </url>
 </urlset>

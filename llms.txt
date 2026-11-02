@@ -1,0 +1,74 @@
+# 챌린지짐 (CHALLENGE GYM)
+
+> 틱톡·유튜브 쇼츠·인스타 릴스에서 유행했거나 유행 중인 유명 챌린지를 모아 유래, 대표 영상, 따라 하는 방법과 함께 소개합니다.
+
+- 언어: 한국어 · 최종 업데이트: 2026-11-02 · 수록 챌린지: 35개 (걸그룹 13, 보이그룹 13, 혼성그룹 1)
+- 근거: 뉴스 보도와 소속사·아티스트 공식 채널. 각 페이지 하단에 출처를 표기합니다.
+- 난이도(초급/중급/고급)는 동작 반경·대형 변화·박자 속도 기준의 참고용 체감 평가입니다.
+
+## 핵심 페이지
+- [메인 · 챌린지 목록](https://challenge-gym.vercel.app/): 전체 챌린지, 급상승 챌린지, 표, 자주 묻는 질문
+- [사이트 소개](https://challenge-gym.vercel.app/about.html): 운영 원칙과 정보 기준
+- [문의](https://challenge-gym.vercel.app/contact.html): yjw2172@naver.com
+- [전체 상세 텍스트](https://challenge-gym.vercel.app/llms-full.txt): 모든 챌린지의 요약·포인트·링크
+
+## 지금 유행 중인 챌린지 (2026-11-02 기준)
+- [IVE (아이브) 'Looks Can Kill' 챌린지](https://challenge-gym.vercel.app/challenges/ive-looks-can-kill.html): 공식 SNS에 공개된 챌린지 영상의 합산 누적 조회수가 1억 회를 돌파했습니다(10월 28일 보도). 배우 이상이, 가수 이영지, 플레이브 예준 등이 저격 댄스 챌린지에 참여했습니다.
+- [ILLIT (아일릿) '체포하겠어 (You're Under Arrest)' 챌린지](https://challenge-gym.vercel.app/challenges/illit-youre-under-arrest.html): 유튜브 '일간 쇼츠 인기곡' 한국 1위(10월 27일), 인스타그램 '릴스 인기 상승 오디오' 2위(11월 1일 기준)에 올랐고, 틱톡에서는 공개 6일 만에 관련 영상이 26만 건을 넘었습니다.
+
+## 챌린지 목록 (최신순)
+- [IVE (아이브) 'Looks Can Kill' 챌린지](https://challenge-gym.vercel.app/challenges/ive-looks-can-kill.html): 손으로 총 모양을 만드는 '저격 댄스'가 포인트인 챌린지. 공식 SNS에 공개된 챌린지 영상 합산 조회수가 1억 회를 넘겼고, 안유진의 '퀵실버'급 빠른 동작 전환이 화제가 됐습니다. (발매일 2026-10-26, 난이도 중급, 구분 걸그룹)
+- [ILLIT (아일릿) '체포하겠어 (You're Under Arrest)' 챌린지](https://challenge-gym.vercel.app/challenges/illit-youre-under-arrest.html): 손으로 총 모양을 만드는 포인트 안무와 호루라기 사운드가 결합된 챌린지. 아이유·크러쉬·엔하이픈 정원과 선우가 참여했고, 가사를 '수능 만점 받겠어'처럼 바꿔 부르는 개사 챌린지도 유행 중입니다. (발매일 2026-10-26, 난이도 초급, 구분 걸그룹)
+- [LE SSERAFIM (르세라핌) 'Made My Night' 챌린지](https://challenge-gym.vercel.app/challenges/lesserafim-made-my-night.html): 오락실 DDR(댄스 댄스 레볼루션) 게임 화면을 연상시키는 연출과 함께 공개된 댄스 챌린지로, 힘찬 발차기 동작이 특징입니다. (발매일 2026-09-11, 난이도 중급, 구분 걸그룹)
+- [Stray Kids (스트레이 키즈) 'THIS & THAT' 챌린지](https://challenge-gym.vercel.app/challenges/straykids-this-and-that.html): 8인조 그룹 전원이 함께 맞추는 유닛 대형 포인트 안무. 발매 직후부터 멤버들이 RIIZE 쇼타로·원빈, ITZY 류진, NEXZ 유키, KiiiKiii 지유 등 타 그룹 멤버들과 함께 찍은 챌린지 영상을 공식 채널에 릴레이로 올리며 확산 중. (발매일 2026-08-07, 난이도 중급, 구분 보이그룹)
+- [V8 (세븐틴 디에잇·버논) 'singasong' 챌린지](https://challenge-gym.vercel.app/challenges/v8-singasong.html): 세븐틴 유닛 V8(디에잇·버논)의 데뷔곡으로, 셔플 스텝을 활용한 댄스 챌린지 선공개 영상이 인스타그램에서만 1억 2천만 뷰를 넘겼습니다. (발매일 2026-06-29, 난이도 중급, 구분 보이그룹)
+- [ATEEZ (에이티즈) 'BAD' 챌린지](https://challenge-gym.vercel.app/challenges/ateez-bad.html): 정규 앨범 'GOLDEN HOUR: Part.5' 타이틀곡으로, 발매 직후부터 유튜브·인스타그램·틱톡에서 댄스 챌린지 영상이 이어지고 있습니다. (발매일 2026-06-29, 난이도 고급, 구분 보이그룹)
+- [STAYC (스테이씨) '2 L0VE' 챌린지](https://challenge-gym.vercel.app/challenges/stayc-2love.html): STAYC 여섯 번째 싱글 앨범의 타이틀곡으로, 청량한 무드에 맞춘 밝고 경쾌한 안무가 특징입니다. (발매일 2026-06-16, 난이도 중급, 구분 걸그룹)
+- [BOYNEXTDOOR (보이넥스트도어) 'VIRAL' 챌린지](https://challenge-gym.vercel.app/challenges/boynextdoor-viral.html): 정교하게 맞춘 칼군무와 유기적인 페어 안무, 댄스 브레이크가 특징인 챌린지. 대형 변화가 잦아 혼자보다는 여럿이 함께 맞춰보기 좋습니다. (발매일 2026-06-08, 난이도 고급, 구분 보이그룹)
+- [TREASURE (트레저) 'IF I' 챌린지](https://challenge-gym.vercel.app/challenges/treasure-if-i.html): 뮤직비디오 공개 12일 만에 1억 뷰를 돌파하며 전 세계 댄서와 팬들이 참여한 글로벌 챌린지 신드롬을 일으켰습니다. (발매일 2026-06-01, 난이도 고급, 구분 보이그룹)
+- [NMIXX (엔믹스) 'Crescendo' 챌린지](https://challenge-gym.vercel.app/challenges/nmixx-crescendo.html): 관계 초반의 설렘을 음악의 '크레센도'에 비유한 얼터너티브 팝 트랙으로, 오케스트라 사운드 위에서 감정을 표현하는 절제된 포인트 안무가 특징입니다. (발매일 2026-05-11, 난이도 중급, 구분 걸그룹)
+- [aespa (에스파) 'WDA (Whole Different Animal)' 챌린지](https://challenge-gym.vercel.app/challenges/aespa-wda.html): G-DRAGON이 피처링한 힙합 베이스 트랙으로, 손을 갈퀴처럼 세우는 '클로' 동작과 점프가 섞인 파워풀한 안무가 특징. 빠른 박자에 맞춘 포메이션 변화까지 있어 난이도가 있는 편입니다. (발매일 2026-05-11, 난이도 고급, 구분 걸그룹)
+- [BABYMONSTER (베이비몬스터) '춤 (CHOOM)' 챌린지](https://challenge-gym.vercel.app/challenges/babymonster-choom.html): YG 양현석이 직접 안무를 짠 타이틀곡으로, 발매 이틀 반나절 만에 관련 콘텐츠가 10만 개를 돌파할 만큼 폭발적인 챌린지 열풍을 일으켰습니다. (발매일 2026-05-04, 난이도 고급, 구분 걸그룹)
+- [ILLIT (아일릿) 'It's Me' 챌린지](https://challenge-gym.vercel.app/challenges/illit-its-me.html): 밈과 포인트 안무를 활용한 챌린지로 화제를 모았으며, 2026 북중미 월드컵 중계 엔딩곡으로도 쓰였습니다. 무릎·발목에 무리가 갈 수 있어 보호대 착용이 권장됩니다. (발매일 2026-04-30, 난이도 고급, 구분 걸그룹)
+- [TWS (투어스) '널 따라가 (You, You)' 챌린지](https://challenge-gym.vercel.app/challenges/tws-you-you.html): 후렴구 'Dda-rum' 파트를 활용한 챌린지로, 공식 인스타그램 영상 누적 조회수가 2410만 뷰를 넘겼습니다. 세븐틴 승관, 투바투 연준, 르세라핌 사쿠라·채원 등 다양한 아티스트가 참여해 화제를 모았습니다. (발매일 2026-04-27, 난이도 초급, 구분 보이그룹)
+- [CORTIS (코르티스) 'REDRED' 챌린지](https://challenge-gym.vercel.app/challenges/cortis-redred.html): BigHit Music 신인 보이그룹의 타이틀곡으로, 빌보드 200 3위에 오르는 등 화제를 모으며 전 세계 댄서들의 커버·튜토리얼 챌린지가 꾸준히 이어지고 있습니다. (발매일 2026-04-20, 난이도 고급, 구분 보이그룹)
+- [TXT (투모로우바이투게더) '하루에 하루만 더 (Stick With You)' 챌린지](https://challenge-gym.vercel.app/challenges/txt-stick-with-you.html): 이별을 노래한 댄스곡으로, 인스타그램 오디오 기능을 활용한 '전 국민 이별 노래방 챌린지' 투표 이벤트와 함께 확산됐습니다. (발매일 2026-04-13, 난이도 중급, 구분 보이그룹)
+- [PLAVE (플레이브) 'Born Savage' 챌린지](https://challenge-gym.vercel.app/challenges/plave-born-savage.html): 버추얼 보이그룹 PLAVE의 신곡 챌린지로, RIIZE 소희 등 타 그룹 아티스트들도 참여한 콜라보 챌린지로 확산됐습니다. (발매일 2026-04-13, 난이도 중급, 구분 보이그룹)
+- [NCT WISH (엔시티 위시) 'Sticky' 챌린지](https://challenge-gym.vercel.app/challenges/nctwish-sticky.html): 패스트푸드점을 배경으로 한 뮤직비디오와 함께 공개된 힙합 기반 댄스곡. '망고 스티키라이스'에 빗댄 끈끈한 관계를 표현한 경쾌한 안무가 특징입니다. (발매일 2026-04-13, 난이도 중급, 구분 보이그룹)
+- [P1Harmony (피원하모니) 'UNIQUE' 챌린지](https://challenge-gym.vercel.app/challenges/p1harmony-unique.html): P1Harmony 특유의 개성을 드러내는 타이틀곡으로, 전 세계 댄스 커버 크루들의 원테이크 챌린지 영상이 꾸준히 올라오고 있습니다. (발매일 2026-03-12, 난이도 고급, 구분 보이그룹)
+- [나무 챌린지 (카더가든 '나무')](https://challenge-gym.vercel.app/challenges/namu-tree-challenge.html): 2019년 발매된 카더가든의 잔잔한 곡 '나무'에 맞춰 무표정으로 팔다리를 정신없이 흔드는 챌린지. 2026년 2월 말부터 유튜브 쇼츠와 틱톡에서 본격적으로 퍼졌습니다. (확산 시작 2026년 2월 말, 난이도 초급, 구분 바이럴·밈)
+- [간바레 챌린지 (頑張りたい人へ)](https://challenge-gym.vercel.app/challenges/ganbare-challenge.html): 일본 음악 크리에이터 오다마요네즈의 '頑張りたい人へ'에 맞춰 한 사람이 3분할 화면에 번갈아 등장하며 포즈를 취하는 응원 챌린지. CSR 유나의 영상이 공개 한 달 만에 인스타그램 600만·틱톡 300만 조회수를 넘으며 2026년 상반기 가장 성공한 챌린지 영상이 됐습니다. (확산 시작 2026년 2월 말, 난이도 초급, 구분 바이럴·밈)
+- [Hearts2Hearts (하츠투하츠) 'RUDE!' 챌린지](https://challenge-gym.vercel.app/challenges/hearts2hearts-rude.html): 규칙에 얽매이지 않는 반항을 그린 하우스 기반 댄스곡. 중국 숏폼 플랫폼 도우인의 챌린지 해시태그 영상이 3천만 뷰를 넘기며 글로벌 인기를 입증했습니다. (발매일 2026-02-20, 난이도 중급, 구분 걸그룹)
+- [ITZY (있지) 'THAT'S A NO NO' 챌린지](https://challenge-gym.vercel.app/challenges/itzy-thats-a-no-no.html): 2020년 발매된 수록곡이 6년 만에 챌린지로 역주행한 이례적인 케이스. ITZY 공식 채널에 올라온 숏폼 조회수가 4000만 뷰를 넘겼고, 제로베이스원 장하오·트와이스 모모 등 타 아티스트들도 챌린지에 합류했습니다. (챌린지 유행 시작 2026년 2월경, 난이도 중급, 구분 걸그룹)
+- [IVE (아이브) 'BANG BANG' 챌린지](https://challenge-gym.vercel.app/challenges/ive-bang-bang.html): 곡 안에 이름 붙은 포인트 동작이 세 가지나 있어 원하는 파트만 골라 연습하기 좋은 챌린지. 발매 즉시 음원차트 '퍼펙트 올킬'을 기록하며 화제성과 함께 챌린지도 빠르게 확산됐습니다. (발매일 2026-02-09, 난이도 초급, 구분 걸그룹)
+- [I-dle (아이들) 'Mono' 챌린지](https://challenge-gym.vercel.app/challenges/idle-mono.html): 영국 래퍼 skaiwater가 피처링한 트랙으로, 다양한 댄서가 참여한 메가 크루 퍼포먼스 영상과 멤버별 챌린지 댄스가 공개됐습니다. (발매일 2026-01-27, 난이도 고급, 구분 걸그룹)
+- [KiiiKiii (키키) '404 (New Era)' 챌린지](https://challenge-gym.vercel.app/challenges/kiiikiii-404-new-era.html): 레트로 하이틴 무드를 담은 타이틀곡으로, 발매 직후 멤버별 챌린지 댄스 영상이 공식 채널에 연달아 공개되며 확산됐습니다. (발매일 2026-01-26, 난이도 중급, 구분 걸그룹)
+- [EXO (엑소) 'Crown' 챌린지](https://challenge-gym.vercel.app/challenges/exo-crown.html): 전원 군 복무를 마친 멤버들이 뭉쳐 2년 반 만에 발매한 컴백곡. 릴레이 댄스 형식의 챌린지 영상이 활발히 공유되며 'EXO의 시작, 근본'이라는 반응을 얻었습니다. (발매일 2026-01-19, 난이도 중급, 구분 보이그룹)
+- [윤정아 챌린지 (윤정아 윤정아 왜요 쌤 왜요 쌤)](https://challenge-gym.vercel.app/challenges/yoonjeonga-waeyossam-challenge.html): 한 명이 '윤정아 윤정아'라고 부르면 다른 한 명이 '왜요 쌤 왜요 쌤'으로 받으며 힘을 뺀 채 춤추는 챌린지. 2026년 1월 5일 초등학생 두 명의 영상에서 시작해 레드벨벳 아이린, 소녀시대 효연, 배우 고윤정 등이 참여하며 2026년 상반기 대표 밈이 됐습니다. (시작일 2026-01-05, 난이도 초급, 구분 바이럴·밈)
+- [NCT DREAM (엔시티 드림) 'Beat It Up' 챌린지](https://challenge-gym.vercel.app/challenges/nctdream-beat-it-up.html): 복싱을 콘셉트로 한 파워풀한 타이틀곡으로, 멤버들이 직접 참여를 독려한 'Beat It Up' 챌린지가 쇼츠를 중심으로 확산됐습니다. (발매일 2025-11-17, 난이도 고급, 구분 보이그룹)
+- [ALLDAY PROJECT (올데이 프로젝트) 'One More Time' 챌린지](https://challenge-gym.vercel.app/challenges/alldayproject-one-more-time.html): 남녀 혼성 5인조 그룹 특유의 케미가 돋보이는 챌린지로, 발매 직후부터 다양한 댄스 튜토리얼과 챌린지 영상이 이어졌습니다. (발매일 2025-11-17, 난이도 중급, 구분 혼성그룹)
+- [도마도마 챌린지 (MENTE MÁ)](https://challenge-gym.vercel.app/challenges/toma-toma-challenge.html): 브라질 펑크 'MENTE MÁ'의 후렴('도마 도마')에 맞춰 행진하듯 걷고 권총 모양 제스처를 하는 챌린지. 라이즈 원빈의 영상이 중국 도우인에서 하루 만에 100만 조회수를 기록한 뒤 한국으로 역수입돼, 남자 아이돌 대부분이 찍을 만큼 퍼졌습니다. (챌린지 시작 2025년 7월, 난이도 초급, 구분 바이럴·밈)
+- [APT. 챌린지 (ROSÉ & Bruno Mars)](https://challenge-gym.vercel.app/challenges/apt-challenge.html): ROSÉ와 Bruno Mars의 'APT.' 후렴 안무를 친구와 함께 따라 하는 챌린지. 유튜브가 공식 쇼츠 댄스 챌린지를 열었고, 뮤직비디오는 공개 105일 만에 유튜브 10억 뷰를 돌파했습니다. (곡 공개·챌린지 시작 2024년 10월, 구분 역대 유명)
+- [첫눈 챌린지 (EXO '첫 눈')](https://challenge-gym.vercel.app/challenges/exo-first-snow-challenge.html): 2013년 발매된 EXO의 겨울 노래 '첫 눈'의 빠른 후렴구에 간단한 동작을 붙인 챌린지. 2023년 12월 숏폼에서 유행하며 발매 10년 만에 멜론 일간 차트 1위에 올랐고, 아이브·NCT 드림·라이즈 등이 참여했습니다. (챌린지 유행 2023년 12월, 난이도 초급, 구분 바이럴·밈)
+- [아무노래 챌린지 (지코 '아무노래')](https://challenge-gym.vercel.app/challenges/zico-any-song-challenge.html): 지코의 '아무노래' 하이라이트 구간에 맞춰 각자 개성대로 춤을 추는 챌린지. 틱톡 #anysongchallenge가 한국·싱가포르·태국·인도네시아 등 8개국에서 동시에 열렸고, 화사·청하·이효리 등이 참여했습니다. (곡 발매·챌린지 시작 2020-01-13, 난이도 초급, 구분 역대 유명)
+- [아이스 버킷 챌린지 (ALS Ice Bucket Challenge)](https://challenge-gym.vercel.app/challenges/als-ice-bucket-challenge.html): 얼음물을 머리 위로 붓는 영상을 올리고 다음 참가자를 지목하거나 ALS(루게릭병) 기부를 하는 모금 챌린지. 2014년 여름 전 세계로 번져 1,700만 명 이상이 영상을 올렸고, ALS 협회는 약 1억 1,500만 달러를 모금했습니다. (유행 시기 2014년 여름, 구분 역대 유명)
+
+## 자주 묻는 질문
+### 요즘 한국 인스타그램·틱톡·유튜브 쇼츠에서 유행하는 챌린지는 무엇인가요?
+2026-11-02 기준 보도를 바탕으로 정리하면 IVE 'Looks Can Kill' — 공식 SNS에 공개된 챌린지 영상의 합산 누적 조회수가 1억 회를 돌파했습니다(10월 28일 보도). 배우 이상이, 가수 이영지, 플레이브 예준 등이 저격 댄스 챌린지에 참여했습니다 / ILLIT '체포하겠어 (You're Under Arrest)' — 유튜브 '일간 쇼츠 인기곡' 한국 1위(10월 27일), 인스타그램 '릴스 인기 상승 오디오' 2위(11월 1일 기준)에 올랐고, 틱톡에서는 공개 6일 만에 관련 영상이 26만 건을 넘었습니다. 이 밖에 33개 챌린지도 최신순으로 정리해 두었습니다.
+
+### 처음 도전하기 쉬운 챌린지는 무엇인가요?
+체감 난이도 '초급'으로 분류한 챌린지는 ILLIT '체포하겠어 (You're Under Arrest)', TWS '널 따라가 (You, You)', 나무 챌린지, 간바레 챌린지, IVE 'BANG BANG', 윤정아 챌린지, 도마도마 챌린지, 첫눈 챌린지, 아무노래 챌린지입니다. 동작이 단순하거나 정해진 안무가 없어 처음 도전하기 좋습니다.
+
+### 챌린지 난이도는 어떻게 정하나요?
+동작 반경·대형 변화·박자 속도 등을 기준으로 한 참고용 체감 난이도입니다. 초급: 손동작 위주, 처음 도전하기 좋음. 중급: 팔다리 동작이 섞인 구간 연습이 필요함. 고급: 대형 변화·빠른 박자 등 숙련도가 필요함. 얼음물 챌린지처럼 동작 난이도로 비교하기 어려운 챌린지는 난이도를 표기하지 않습니다. 개인차가 있을 수 있습니다.
+
+### 챌린지 영상은 어디서 볼 수 있나요?
+각 챌린지 페이지에서 공식 채널 또는 원본·대표 유튜브 영상을 바로 재생할 수 있고, 확인된 경우 실제 확산 사례인 유튜브 쇼츠와 공식 인스타그램 링크도 함께 제공합니다.
+
+### 인스타그램 릴스는 왜 특정 게시물이 아니라 공식 계정으로 연결되나요?
+특정 릴스는 외부에서 존재 여부를 검증하기 어려워, 확인 가능한 아티스트 공식 계정으로 연결합니다. 쇼츠는 유튜브 영상을 직접 임베드합니다. 일반인(특히 미성년자) 계정은 연결하지 않습니다.
+
+### 챌린지짐은 어떤 사이트인가요?
+챌린지짐(CHALLENGE GYM)은 틱톡·유튜브 쇼츠·인스타 릴스에서 유행했거나 유행 중인 챌린지를 뉴스 보도와 공식 채널을 근거로 정리해, 유래·대표 영상·따라 하는 방법과 함께 소개하는 한국어 사이트입니다. 현재 35개 챌린지를 수록하고 있습니다.
+
